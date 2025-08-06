@@ -13,3 +13,10 @@ Currently, two official plugins are available:
 You need to the file and run "npm install" in the Terminal, Which will install the libraries required to run the code.
 
 After that You need to do "npm run dev" in termainal to run the code.
+
+
+## Deployment
+
+The code have been deployed using Versel.ai
+
+You can view it directly useing the link:  https://weather-oiq1xfmhh-glaze0s-projects.vercel.app 
