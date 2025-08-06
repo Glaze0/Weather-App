@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 You need to clown the file and run "npm install" in the Terminal, Which will install the libraries required to run the code.
 
 ```
-clown the
+clown the file:  https://github.com/Glaze0/Weather-App.git 
 npm install
 ```
 
